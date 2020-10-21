@@ -1,10 +1,9 @@
-### Hi there 👋
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/pavan7143mg">
   <img align="left" alt="Pavan" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mistry-pavan-kumar/">
+<a href="https://www.linkedin.com/in/mistry-pavan-kumar-5067b21b1">
   <img align="left" alt="Pavan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/pavan_kumar143mg/">
@@ -29,7 +28,7 @@ Beside programming, I got a penchant for writing!
 - 👨🏽‍💻 I’m currently working on multiple projects :wink:;
 - 🌱 I’m currently learning Flutter and C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@pavankumar](https://www.linkedin.com/in/mistry-pavan-kumar/);
+- 📫 How to reach me: [@pavankumar](https://www.linkedin.com/in/mistry-pavan-kumar-5067b21b1);
 
 **Languages and Tools:**  
 
