@@ -20,9 +20,6 @@ Currently a sophomore student contributing to various open-sourced projects and 
 
 I'm interested in Web Development, Flutter app development and Data Science.
 
-Beside programming, I got a penchant for writing!
-  <img align="right" alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="500" height="320" />
-
 Check out my Portfolio: <a href = "https://mg143pavankumar.github.io" target ="__blank"> *Click here* </a>
   
 **Talking about Personal Stuffs:**
