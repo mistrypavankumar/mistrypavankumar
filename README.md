@@ -15,10 +15,9 @@
 
 <br />
 
-Hi, I'm [Pavan kumar](https://www.linkedin.com/in/mistry-pavan-kumar/), a Full Stack Developer 🚀 from Hyderabad, India, currently, 
-Currently a sophomore student contributing to various open-sourced projects and working on quite a few personal projects. Also part of a start-up company aiming high 🌟
-
-I'm interested in Web Development, Flutter app development and Data Science.
+Hey everyone!  I'm M.Pavan Kumar, a Full Stack Developer 🚀 from Hyderabad, India. 
+I’m currently a sophomore year student pursuing my Bachelor of Technology in Computer Science Engineering.  contributing to various open-sourced projects and working on quite a few personal projects.
+I'm interested in Web Development, Mobile App Development, Machine learning.
 
 Check out my Portfolio: <a href = "https://mg143pavankumar.github.io" target ="__blank"> *Click here* </a>
   
