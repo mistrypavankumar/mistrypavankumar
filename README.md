@@ -19,14 +19,16 @@ Hey everyone!  I'm M.Pavan Kumar, a Full Stack Developer 🚀 from Hyderabad, In
 I’m currently a sophomore year student pursuing my Bachelor of Technology in Computer Science Engineering.  contributing to various open-sourced projects and working on quite a few personal projects.
 I'm interested in Web Development, Mobile App Development, Machine learning.
 
-Check out my Portfolio: <a href = "https://mg143pavankumar.github.io" target ="__blank"> *Click here* </a>
+Check out my Portfolio: <a href = "https://mg143pavankumar.github.io" target ="__blank"> *https://mg143pavankumar.github.io* </a>
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on multiple projects :wink:;
-- 🌱 I’m currently learning Flutter and C++; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@pavankumar](https://www.linkedin.com/in/mistry-pavan-kumar-5067b21b1);
+- 📝[Resume](https://drive.google.com/file/d/1MPRP4_A9LM5K6ZPtDOPliES9aQRQK9I1/view?usp=sharing)
+
+                                                                                       
 
 **Languages and Tools:**  
 
