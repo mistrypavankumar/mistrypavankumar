@@ -45,11 +45,25 @@ Check out my Portfolio: <a href = "https://mg143pavankumar.github.io" target ="_
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<summary>📈 My GitHub Stats: </summary>
-<br>
-<br>
-<p align="left"> <img align="left" alt="Pavan's profile stats" src="https://github-readme-stats.vercel.app/api?username=mg143pavankumar&show_icons=true&theme=gotham" alt="mg143pavankumar" />
+                                               
+## &#x1f4c8; GitHub Stats
 
-<br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg143pavankumar&layout=compact)](https://github.com/mg143pavankumar/github-readme-stats)
+<p float = "left" >
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mg143pavankumar&show_icons=true&locale=en&layout=compact&theme=radical"
+    alt="mg143pavankumar" />
+
+<img align="right"  alt="Pavan's profile stats" src="https://github-readme-stats.vercel.app/api?username=mg143pavankumar&show_icons=true&theme=gotham" alt="mg143pavankumar" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mg143pavankumar&theme=radical"
+alt="mg143pavankumar" />
+
+</p>
+<br />
+
+
+![GitHub Activity
+Graph](https://activity-graph.herokuapp.com/graph?username=mg143pavankumar&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+                                                                                                                                         
+
