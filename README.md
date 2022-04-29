@@ -50,10 +50,10 @@ Check out my Portfolio: <a href = "https://mg143pavankumar.github.io" target ="_
 
 <div style="flex-direction: row;">
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mg143pavankumar&show_icons=true&locale=en&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mg143pavankumar&show_icons=true&locale=en&layout=compact&theme=gotham"
     alt="mg143pavankumar" />
                          
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mg143pavankumar&theme=radical"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mg143pavankumar&theme=radical"
 alt="mg143pavankumar" />
  
 <img alt="Pavan's profile stats" src="https://github-readme-stats.vercel.app/api?username=mg143pavankumar&show_icons=true&theme=gotham" alt="mg143pavankumar" />
@@ -61,6 +61,6 @@ alt="mg143pavankumar" />
 </div>
 
 ![GitHub Activity
-Graph](https://activity-graph.herokuapp.com/graph?username=mg143pavankumar&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+Graph](https://activity-graph.herokuapp.com/graph?username=mg143pavankumar&theme=gotham&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
                                                                                                                                          
 
