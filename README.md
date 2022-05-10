@@ -19,7 +19,7 @@ Hey everyone!  I'm M.Pavan Kumar, a Full Stack Developer 🚀 from Hyderabad, In
 I’m currently a sophomore year student pursuing my Bachelor of Technology in Computer Science Engineering.  contributing to various open-sourced projects and working on quite a few personal projects.
 I'm interested in Web Development, Mobile App Development, Machine learning.
 
-Check out my Portfolio: <a href = "https://mg143pavankumar.github.io" target ="__blank"> *https://mg143pavankumar.github.io* </a>
+Check out my Portfolio: <a href = "https://mg143pavankumar.netlify.app/" target ="__blank"> *https://mg143pavankumar.netlify.app/* </a>
   
 **Talking about Personal Stuffs:**
 
