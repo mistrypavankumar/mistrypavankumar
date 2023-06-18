@@ -11,7 +11,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mg143pavnkumar.mg143pavankumar)
+![](https://visitor-badge.glitch.me/badge?page_id=mg143pavnkumar.mistrypavankumar)
 
 <br />
 
@@ -19,7 +19,7 @@ Hey everyone!  I'm M.Pavan Kumar, a Full Stack Developer 🚀 from Hyderabad, In
 I’m currently a sophomore year student pursuing my Bachelor of Technology in Computer Science Engineering.  contributing to various open-sourced projects and working on quite a few personal projects.
 I'm interested in Web Development, Mobile App Development, Machine learning.
 
-Check out my Portfolio: <a href = "https://mg143pavankumar.github.io/" target ="__blank"> *https://mg143pavankumar.github.io/* </a>
+Check out my Portfolio: <a href = "https://mistrypavankumar.github.io/" target ="__blank"> *https://mistrypavankumar.github.io/* </a>
   
 **Talking about Personal Stuffs:**
 
@@ -50,17 +50,17 @@ Check out my Portfolio: <a href = "https://mg143pavankumar.github.io/" target ="
 
 <div style="flex-direction: row;">
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mg143pavankumar&show_icons=true&locale=en&layout=compact&theme=gotham"
-    alt="mg143pavankumar" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mistrypavankumar&show_icons=true&locale=en&layout=compact&theme=gotham"
+    alt="mistrypavankumar" />
                          
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mg143pavankumar&theme=radical"
-alt="mg143pavankumar" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mistrypavankumar&theme=radical"
+alt="mistrypavankumar" />
  
-<img alt="Pavan's profile stats" src="https://github-readme-stats.vercel.app/api?username=mg143pavankumar&show_icons=true&theme=gotham" alt="mg143pavankumar" />
+<img alt="Pavan's profile stats" src="https://github-readme-stats.vercel.app/api?username=mistrypavankumar&show_icons=true&theme=gotham" alt="mistrypavankumar" />
                                    
 </div>
 
 ![GitHub Activity
-Graph](https://activity-graph.herokuapp.com/graph?username=mg143pavankumar&theme=gotham&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+Graph](https://activity-graph.herokuapp.com/graph?username=mistrypavankumar&theme=gotham&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
                                                                                                                                          
 
