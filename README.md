@@ -26,8 +26,7 @@ Check out my Portfolio: <a href = "https://mistrypavankumar.github.io/" target =
 - 👨🏽‍💻 I’m currently working on multiple projects :wink:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@pavankumar](https://www.linkedin.com/in/mistry-pavan-kumar-5067b21b1);
-- 📝[Resume](https://drive.google.com/file/d/1-9ILHZfmmnZvoIzQQloJ_rH48i4hxNvH/view)
-
+- [Resume](https://drive.google.com/file/d/1uTNqqSWnvWzUQSFYntoHrhnjCgQ9bRN9/view?usp=sharing)
                                                                                        
 
 **Languages and Tools:**  
@@ -58,9 +57,5 @@ alt="mistrypavankumar" />
  
 <img alt="Pavan's profile stats" src="https://github-readme-stats.vercel.app/api?username=mistrypavankumar&show_icons=true&theme=gotham" alt="mistrypavankumar" />
                                    
-</div>
-
-![GitHub Activity
-Graph](https://activity-graph.herokuapp.com/graph?username=mistrypavankumar&theme=gotham&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-                                                                                                                                         
+</div>                                                                                                                  
 
