@@ -15,9 +15,7 @@
 
 <br />
 
-Hey everyone!  I'm M.Pavan Kumar, a Full Stack Developer 🚀 from Hyderabad, India. 
-I’m currently a sophomore year student pursuing my Bachelor of Technology in Computer Science Engineering.  contributing to various open-sourced projects and working on quite a few personal projects.
-I'm interested in Web Development, Mobile App Development, Machine learning.
+Hello everyone! I'm M. Pavan Kumar, a Full Stack Developer 🚀 originally from Hyderabad, India. I'm currently advancing my education in the United States, where I'm pursuing a Master's in Computer Science at Rowan University. With a strong foundation from my Bachelor of Technology in Computer Science Engineering, I'm continuously expanding my skills by contributing to various open-source projects and developing numerous personal projects. My interests lie primarily in Web Development, Mobile App Development, and Machine Learning, and I'm passionate about exploring the latest technologies in these fields.
 
 Check out my Portfolio: <a href = "https://mistrypavankumar.github.io/" target ="__blank"> *https://mistrypavankumar.github.io/* </a>
   
