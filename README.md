@@ -24,7 +24,7 @@ Check out my Portfolio: <a href = "https://mistrypavankumar.github.io/" target =
 - 👨🏽‍💻 I’m currently working on multiple projects :wink:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@pavankumar](https://www.linkedin.com/in/mistry-pavan-kumar-5067b21b1);
-- [Resume](https://drive.google.com/file/d/1uTNqqSWnvWzUQSFYntoHrhnjCgQ9bRN9/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1tHO0o_ERh3rLIyQtYDRqNxJW2e_BjaSY/view?usp=sharing)
                                                                                        
 
 **Languages and Tools:**  
