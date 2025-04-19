@@ -11,20 +11,20 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mg143pavnkumar.mistrypavankumar)
+![](https://visitor-badge.glitch.me/badge?page_id=mistrypavankumar.mistrypavankumar)
 
 <br />
 
-Hello everyone! I'm M. Pavan Kumar, a Full Stack Developer 🚀 originally from Hyderabad, India. I'm currently advancing my education in the United States, where I'm pursuing a Master's in Computer Science at Rowan University. With a strong foundation from my Bachelor of Technology in Computer Science Engineering, I'm continuously expanding my skills by contributing to various open-source projects and developing numerous personal projects. My interests lie primarily in Web Development, Mobile App Development, and Machine Learning, and I'm passionate about exploring the latest technologies in these fields.
+Hello everyone! I'm M. Pavan Kumar, Full Stack Developer with 3+ years of experience building scalable web/mobile applications using MERN stack (React, Node.js, MongoDB), Flutter, and cloud technologies (GCP). Proven track record of optimizing performance (e.g., reducing latency by 25%) and leading cross-functional Agile teams. Pursuing MS in Computer Science (GPA: 3.6/4) with a focus on cloud-native architectures and real-time systems.
 
-Check out my Portfolio: <a href = "https://mistrypavankumar.github.io/" target ="__blank"> *https://mistrypavankumar.github.io/* </a>
+Check out my Portfolio: <a href = "https://pavankumarmistry-portfolio.vercel.app/" target ="__blank"> *https://pavankumarmistry-portfolio.vercel.app/* </a>
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on multiple projects :wink:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@pavankumar](https://www.linkedin.com/in/mistry-pavan-kumar-5067b21b1);
-- [Resume](https://drive.google.com/file/d/1tHO0o_ERh3rLIyQtYDRqNxJW2e_BjaSY/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1RTLzRAjx6UvHxDTTN3F3JaKu1I9jy_OJ/view)
                                                                                        
 
 **Languages and Tools:**  
