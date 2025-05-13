@@ -57,8 +57,8 @@ Hello everyone! I'm M. Pavan Kumar, Full Stack Developer with 3+ years of experi
 
 <div style="display: flex; justify-content: between; gap: 10px; flex-wrap: nowrap;">
   <div style="display: flex; justify-content: ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistrypavankumar&layout=compact&theme=gotham" width="40%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mistrypavankumar&show_icons=true&theme=gotham" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistrypavankumar&layout=compact&theme=gotham" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mistrypavankumar&show_icons=true&theme=gotham" width="48%" />
   </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mistrypavankumar&theme=radical" width="100%" />
 
