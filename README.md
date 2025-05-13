@@ -11,14 +11,12 @@
 
 <br />
 
-Hello everyone! I'm M. Pavan Kumar, Full Stack Developer with 3+ years of experience building scalable web/mobile applications using MERN stack (React, Node.js, MongoDB), Flutter, and cloud technologies (GCP). Proven track record of optimizing performance (e.g., reducing latency by 25%) and leading cross-functional Agile teams. Pursuing MS in Computer Science (GPA: 3.6/4) with a focus on cloud-native architectures and real-time systems.
+Hello everyone! I'm M. Pavan Kumar, Full Stack Developer with 3+ years of experience building scalable web/mobile applications using MERN stack (React, Node.js, MongoDB), Flutter, and cloud technologies (GCP). Proven track record of optimizing performance (e.g., reducing latency by 25%) and leading cross-functional Agile teams. Recently completed my MS in Computer Science (GPA: 3.6/4) with a focus on cloud-native architectures and real-time systems.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on multiple projects :wink:;
 - 💬 Ask me about anything, I am happy to help;                                         
-
-**Languages and Tools:**  
 
 ## 🛠 Tech Stack
 
